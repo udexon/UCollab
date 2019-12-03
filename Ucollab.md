@@ -21,3 +21,7 @@ Virtual machines in web browser, Android and iOS are spectacular technologies th
 Despites these obstacles, we believe we have found the literal "Swiss army knife" of programming, called Phos Smashlet, or stack machine shell, derived from the legendary, half century old Forth programming language, that can overcome the limitations mentioned above. 
 
 Based on Phos Smashlet, we propose to build Ucollab (Universal Collaborative Programming Platform), a platform that aims to achieve the goals listed above. 
+
+- [ Phos Smashlet in Android Java ](https://github.com/udexon/Homoiconism/blob/master/Android_Java_Phos.md)
+
+- [ Phos Smashlet in JavaScript and PHP ](https://github.com/udexon/GOEHDOM/blob/master/Phos_Smashlet.md)
