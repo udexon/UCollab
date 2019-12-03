@@ -25,3 +25,11 @@ Based on Phos Smashlet, we propose to build Ucollab (Universal Collaborative Pro
 - [ Phos Smashlet in Android Java ](https://github.com/udexon/Homoiconism/blob/master/Android_Java_Phos.md)
 
 - [ Phos Smashlet in JavaScript and PHP ](https://github.com/udexon/GOEHDOM/blob/master/Phos_Smashlet.md)
+
+Hybrid Upstream Downstream Interface
+
+As readers can see in the examples above, we have implemented a Hybrid Upstream Downstream Interface, where a different programming language, Phos, is used to call upstream functions in the host programming language, a first in the history of programming.
+
+The terms "upstream" and "downstream" are borrowed from supply chain models. They also highlights the separation of roles of programmers enabled by HUDI, just like the supply chain ecosystems. i.e. Downstream programmers need only need to use Phos, leaving the in depth work to develop Phos API in host programming languages to upstream developers.
+
+The cost and time savings achievable with HUDI will be tremendous, as retraining of programmers to cope with new programming languages can be reduced. This is a novel breakthrough in the history of software development. 
