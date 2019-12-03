@@ -26,9 +26,9 @@ Based on Phos Smashlet, we propose to build Ucollab (Universal Collaborative Pro
 
 - [ Phos Smashlet in JavaScript and PHP ](https://github.com/udexon/GOEHDOM/blob/master/Phos_Smashlet.md)
 
-Convergent Hybrid Upstream Downstream Interface
+### Convergent Hybrid Upstream Downstream Interface
 
-As readers can see in the examples above, we have implemented a Convergent Hybrid Upstream Downstream Interface (CHUDI), where a different programming language, Phos, is used to call upstream functions in the host programming language, a first in the history of programming.
+As readers can see in the examples above, we have implemented a Convergent Hybrid Upstream Downstream Interface (CHUDI), where a different programming language, Phos, is used to call upstream functions in the host programming language (Java, JavaScript, PHP), a first in the history of programming, i.e. a common downstream programming language (Phos) with different upstream programming languages. 
 
 Conventionally, downstream programming languages, e.g. Python and Java, call upstream C/C++ functions, resulting in Divergent Hybrid Upstream Downstream Interface (DHUDI), i.e. a common upstream programming language and different downstream programming languages. 
 
