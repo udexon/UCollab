@@ -32,6 +32,6 @@ As readers can see in the examples above, we have implemented a Convergent Hybri
 
 Conventionally, downstream programming languages, e.g. Python and Java, call upstream C/C++ functions, resulting in Divergent Hybrid Upstream Downstream Interface (DHUDI), i.e. a common upstream programming language and different downstream programming languages. 
 
-The terms "upstream" and "downstream" are borrowed from supply chain models. They also highlights the separation of roles of programmers enabled by CHUDI, just like the supply chain ecosystems. i.e. Downstream programmers need only need to use Phos, leaving the in depth work to develop Phos API in host programming languages to upstream developers.
+The terms "upstream" and "downstream" are borrowed from supply chain models. They also highlight the separation of roles of programmers enabled by CHUDI, just like the supply chain ecosystems. i.e. Downstream programmers need to use only one programming language, Phos, leaving the in depth work to develop Phos API in host programming languages to upstream developers.
 
 The cost and time savings achievable with CHUDI will be tremendous, as retraining of programmers to cope with new programming languages can be reduced. This is a novel breakthrough in the history of software development. 
