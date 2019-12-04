@@ -1,4 +1,4 @@
-### UCollab (Universal Cloudless Collaborative Platform): Free Software Revolution 2.0 -- Cloning Commercial Software Services, from Search Engines to Social Networks
+### UCollab (Universal Cloudless Collaborative Platform): Free Software Revolution 2.0 -- Cloning Proprietary Software Services, from Search Engines to Social Networks
 
 - Imagine an alternate universe where Facebook is NOT run by Zuckerberg & company, BUT the Free Software Foundation.
 
