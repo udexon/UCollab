@@ -20,9 +20,9 @@ Before we carry on to elaborate on our breakthrough, it is perhaps prudent to di
 
 To summarise:
 
-- The free software movement initiated by the Free Software Foundation, which resulted in the GNU/Linux operating system and tools, was primarily aiming at ___cloning___ the commercial Unix operating systems and tools during the 1980s. The eventual successes of the free software movement were so spectacular in powering the Internet and wireless communications ecosystems that the current generation of programmers have largely forgotten that cloning another commercial operating system and tools was very much a brute force exercise without too many original and novel ideas.
+- The free software movement initiated by the Free Software Foundation, which resulted in the GNU/Linux operating system and tools, was primarily aiming at ___cloning the proprietary Unix operating systems and tools___ during the 1980s. The eventual successes of the free software movement were so spectacular in powering the Internet and wireless communications ecosystems that the current generation of programmers have largely forgotten that cloning another commercial operating system and tools was very much ___a brute force exercise without too many original and novel ideas___.
 
-Having understood that ___cloning without too many innovations___ has produced perhaps one of the greatest technological achievements in human history, involving the largest number of human population, nation states and fields of activities of human endeavour and the fastest acculumation of wealth, we would now like to convince readers that such a feat ___can be replicated___, using our breakthrough ___Phos Smashlet stack machine shell___.  
+Having understood that ___cloning without too many innovations___ has produced perhaps one of the greatest technological achievements in human history, involving the largest number of programmers, nation states and fields of human endeavour and the fastest acculumation of wealth, we would now like to convince readers that such a feat ___can be replicated___, using our breakthrough ___Phos Smashlet stack machine shell___.  
 
 #### Benefits
 
