@@ -1,6 +1,6 @@
 ### UCollab (Universal Cloudless Collaborative Platform): Free Software Revolution 2.0 -- Cloning Proprietary Software Services, from Search Engines to Social Networks
 
-- Imagine an alternate universe where Facebook is NOT run by Zuckerberg & company, BUT the Free Software Foundation.
+- Imagine an alternate universe where Facebook is NOT run by Zuckerberg & company, BUT the Free Software Foundation or equivalent.
 
 - Imagine an alternate universe where your comment on Facebook is processed and stored NOT on Amazon's cloud server located at secret unknown locations, BUT encrypted and processed, but never stored, by a chain of mobile phones in your own neighbourhood. 
 
