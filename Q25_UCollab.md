@@ -18,6 +18,10 @@ This article is perhaps unusual in opening with a list of "imagine" scenarios. N
 
 Before we carry on to elaborate on our breakthrough, it is perhaps prudent to dispell the disbelieves that most readers may have concerning our ambitions -- by relating them to the original history of the free software movement.
 
+To summarise:
+
+- The free software movement initiated by the Free Software Foundation, which resulted in the GNU/Linux operating system and tools, was primarily aiming at "cloning" the commercial Unix operating system and tools during the 1980s. The eventual successes of the free software movement were so spectacular in powering the Internet and wireless communications ecosystems that the current generation of programmers have largely forgotten that cloning another commercial operating system and tools was very much a brute force exercise without too many original and novel ideas.
+
 #### Benefits
 
 - Even distribution of project profits and net worth amongst programmers: Facebook 40k employees USD 500B.
