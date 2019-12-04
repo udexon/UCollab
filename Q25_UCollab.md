@@ -1,4 +1,4 @@
-### UCollab: Universal Cloudless Collaborative Platform.
+### UCollab: Universal Cloudless Collaborative Platform
 
 - Imagine an alternate universe where Facebook is NOT run by Zuckerberg & company, BUT the Free Software Foundation.
 
@@ -8,11 +8,15 @@
 
 - Imagine an alternate universe where YOU do NOT just write comment on Facebook BUT are able to contribute one line of code at a time to improve or add new services to Facebook.
 
-- Imagine an alternate universe where MILLIONS of programmers like you can EACH contribute code to Facebook one line at a time.
+- Imagine an alternate universe where MILLIONS of programmers like YOU can EACH contribute code to Facebook one line at a time.
 
 - Imagine an alternate universe where MILLIONS of programmers like YOU can EACH contribute code to NOT JUST Facebook,  but other world class social network applications that YOU can help to create.
 
 Welcome to the future of "Cloudless Computing", with UCollab -- Universal Cloudless Collaborative Platform.
+
+This article is perhaps unusual in opening with a list of "imagine" scenarios. Nevertheless, we believe this is the easiest expression to make readers understand how the breakthrough we introduce in this article may change the world, quite literally.
+
+Before we carry on to elaborate on our breakthrough, it is perhaps prudent to dispell the disbelieves that most readers may have concerning our ambitions -- by relating them to the original history of the free software movement.
 
 #### Benefits
 
