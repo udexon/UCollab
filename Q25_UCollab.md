@@ -50,6 +50,8 @@ The biggest differences we have in 2020 compared to 1980 are:
 - more experience- better technologies for team work and software engineering- proven net worth of companies- proven net worth of cryptocurrencies
 - better hardware and software- more people, more devices, more storage, faster networks
 
+- 1980s GNU/Linux: mostly in C/C++, less fragmentations due to programming langauges and frameworks like 2020 -- solution by Phos Smashlet.
+
 Time to take to replicate 100% of MAGAF and Bitcoin?
 
 And grow?
