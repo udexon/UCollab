@@ -40,9 +40,11 @@ We may now use the following to measure the successes in replicating conventiona
 
 Although the list above may look a little complicated, covering several fields which may not seem to be related, we shall attempt to explore their relationships, as in the end, they all manifest their results in dollars and cents and time, as with all human activities.
 
-Item (i) has now plenty of examples which provide us a wide range of data to study. In our opinion, the most interesting aspect of shared economy seems to be the businesses that have not be "ported" to social meida. Of these, the most useful example would be cooking classes.
+Item (1) has now plenty of examples which provide us a wide range of data to study. In our opinion, the most interesting aspect of shared economy seems to be the businesses that have not be "ported" to social meida. Of these, the most useful example would be cooking classes.
 
-(i) and (iii) may have macroeconomic implications ... topic for another article to explore?
+We believe (1) and (3) may have macroeconomic implications, in that they may significantly reduced poverty globally, especially based on the potential impact of the shared economy of cooking classes, where the history of Chinese restaurants has provided us plenty of examples how they helped the poorest in the overseas Chinese communities out of poverty, making it practically impossible to find hard core poor Chinese overseas nowadays.
+
+... topic for another article to explore?
 
 #### Benefits
 
