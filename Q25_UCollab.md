@@ -34,11 +34,15 @@ Historically, the following were examples used to measure the successes of free 
 
 We may now use the following to measure the successes in replicating conventional software services and businesses:
 
-- Time taken to replicate conventional businesses in shared economy businesses? Uber, AirBnB etc? And grow?
-- Time to take to replicate 100% of MAGAF and Bitcoin?
-- National currency ratio to cryptocurrency change over time?
+i. Time taken to replicate conventional businesses in shared economy businesses? Uber, AirBnB etc? And grow?
+ii. Time to take to replicate 100% of MAGAF and Bitcoin?
+iii. National currency ratio to cryptocurrency change over time?
 
-Although the list above may look a little complicated, covering several fields which may not be seemingly related, we shall attempt to explore their relationships, as in the end, they all manifest their results in dollars and cents and time, as with all human activities.
+Although the list above may look a little complicated, covering several fields which may not seem to be related, we shall attempt to explore their relationships, as in the end, they all manifest their results in dollars and cents and time, as with all human activities.
+
+Item (i) has now plenty of examples which provide us a wide range of data to study. In our opinion, the most interesting aspect of shared economy seems to be the businesses that have not be "ported" to social meida. Of these, the most useful example would be cooking classes.
+
+(i) and (iii) may have macroeconomic implications ... topic for another article to explore?
 
 #### Benefits
 
