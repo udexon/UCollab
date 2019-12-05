@@ -40,21 +40,23 @@ We may now use the following to measure the successes in replicating conventiona
 
 Although the list above may look a little complicated, covering several fields which may not seem to be related, we shall attempt to explore their relationships, as in the end, they all manifest their results in dollars and cents and time, as with all human activities.
 
-Item (1) has now plenty of examples which provide us a wide range of data to study. In our opinion, the most interesting aspect of shared economy seems to be the businesses that have not be "ported" to social meida. Of these, the most useful example would be cooking classes.
+Item (1) or shared economy social media apps have now plenty of examples which provide us a wide range of data to study. They can be viewed as extensions of free software, as many of the business principles and operations are derived or based on free software. In our opinion, the most interesting aspect of shared economy seems to be the businesses that have not be "ported" to social meida. Of these, the most useful example would be cooking classes.
 
 The shared economy cooking class business model can be summarized as follow:
-- One investor (patron) invest USD 5. 
+- One investor (patron) invests USD 5. 
 - 20 investors invest USD 100 in total.
 - A Master chef brings 5 apprentice cooks to shop for raw ingredients for the day.
-- The Master chef coaches the apprentice cook to preprare the meals for the patrons.
+- The Master chef coaches the apprentice cooks to preprare the meals for the patrons.
 - Extra portions of meal can be sold and the profits shared amongst participants.
-
-We believe (1) and (2) may have macroeconomic implications, in that they may significantly reduced poverty globally, especially based on the potential impact of the shared economy of cooking classes, where the history of Chinese restaurants has provided us plenty of examples how they helped the poorest in the overseas Chinese communities out of poverty, making it practically impossible to find hard core poor Chinese overseas nowadays.
 
 Unfortunately, the propositions of shared economy of cooking classes and the historical role of overseas Chinese restaurants eliminating poverty do not fit the Western liberal narratives, in that:
 
 - These propositions fundamentally assume Marx class struggles still exist, which the left and right of the West both deny.
 - The history of overseas Chinese restaurants and recent economic miracles of China provide novel Chinese, non-violent solutions to Marxist class struggles.
+
+Item (2) cryptocurrencies can also be viewed as an extension of free software. Althought the combine market capitalizations of various cryptocurrencies are now estimated at around USD 200 billion, with Bitcoin taking up the biggest portion, we believe the lack of understanding of the principles of public key encryption by ordinary users has become the biggest bottleneck in the growth of cryptocurrencies, where total world population who have used cryptocurrencies have not exceeded 1%. Our solution for this particular problem is illustrated in the [ Datong Token project ](https://github.com/udexon/DatongToken).
+
+We believe (1) and (2) may have macroeconomic implications, in that they may significantly reduced poverty globally, especially based on the potential impact of the shared economy of cooking classes, where the history of Chinese restaurants has provided us plenty of examples how they helped the poorest in the overseas Chinese communities out of poverty, making it practically impossible to find hard core poor Chinese overseas nowadays.
 
 ... topic for another article to explore?
 
