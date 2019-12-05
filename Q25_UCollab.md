@@ -38,7 +38,7 @@ We may now use the following to measure the successes in replicating conventiona
 - Time to take to replicate 100% of MAGAF and Bitcoin?
 - National currency ratio to cryptocurrency change over time?
 
-
+Although the list above may look a little complicated, covering several fields which may not be seemingly related, we shall attempt to explore their relationships, as in the end, they all manifest their results in dollars and cents and time, as with all human activities.
 
 #### Benefits
 
