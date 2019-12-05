@@ -62,6 +62,8 @@ We may dedicate separate articles to discuss items (1) and (2) above. However, o
 
 - Time to take to replicate 100% of MAGAF -- Microsoft, Apple, Google, Amazon, Facebook
 
+Even without UCollab and Phos Smashlet, others may also be tyring to replicate MAGAF, e.g. DuckGoGo etc. But how to make them better, more efficient, faster?
+
 ... topic for another article to explore?
 
 #### Benefits
