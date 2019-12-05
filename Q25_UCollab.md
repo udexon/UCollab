@@ -27,14 +27,15 @@ Having understood that ___cloning without too many innovations___ has produced p
 
 #### Measuring Successes in Replication
 
-We may use the following to measure the successes in replicating conventional software services and businesses:
+Historically, the following were examples used to measure the successes of free software replicating proprietary software:
+
+- Web servers: Apache vs. Microsoft IIS
+- Office Software: OpenOffice vs. Microsoft Office
+
+We may now use the following to measure the successes in replicating conventional software services and businesses:
 
 - Time taken to replicate conventional businesses in shared economy businesses? Uber, AirBnB etc? And grow?
-
-
-
 - Time to take to replicate 100% of MAGAF and Bitcoin?
-
 - National currency ratio to cryptocurrency change over time?
 
 
