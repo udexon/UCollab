@@ -34,9 +34,9 @@ Historically, the following were examples used to measure the successes of free 
 
 We may now use the following to measure the successes in replicating conventional software services and businesses:
 
-i. Time taken to replicate conventional businesses in shared economy businesses? Uber, AirBnB etc? And grow?
-ii. Time to take to replicate 100% of MAGAF and Bitcoin?
-iii. National currency ratio to cryptocurrency change over time?
+1. Time taken to replicate conventional businesses in shared economy businesses? Uber, AirBnB etc? And grow?
+2. Time to take to replicate 100% of MAGAF and Bitcoin?
+3. National currency ratio to cryptocurrency change over time?
 
 Although the list above may look a little complicated, covering several fields which may not seem to be related, we shall attempt to explore their relationships, as in the end, they all manifest their results in dollars and cents and time, as with all human activities.
 
