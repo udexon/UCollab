@@ -57,6 +57,14 @@ Time to take to replicate 100% of MAGAF and Bitcoin?
 And grow?
 
 National currency ratio to cryptocurrency change over time?
+
+- Use bullet indent to signify new section - easiest, change later.
+
+- Shared economy app, Uber, AirBnB, Food Panda etc, are best example of free software spin off replacing conventional businesses. These have been achieved with existing software engineering innovations.
+
+- Cryptocurrencies is another example. But 99% adoption requires Signal, awareness of public key encryption - insufficient education. Datong Token.
+
+
 <hr>
 Welcome to the future of "Cloudless Computing", with UCollab Universal Collaborative Programming Platform.
 
