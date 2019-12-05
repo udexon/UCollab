@@ -24,6 +24,21 @@ To summarise:
 
 Having understood that ___cloning without too many innovations___ has produced perhaps one of the greatest technological achievements in human history, involving the largest number of programmers, nation states and fields of human endeavour and the fastest acculumation of wealth, we would now like to convince readers that such a feat ___can be replicated___, using our breakthrough ___Phos Smashlet stack machine shell___.  
 
+
+#### Measuring Successes in Replication
+
+We may use the following to measure the successes in replicating conventional software services and businesses:
+
+- Time taken to replicate conventional businesses in shared economy businesses? Uber, AirBnB etc? And grow?
+
+
+
+- Time to take to replicate 100% of MAGAF and Bitcoin?
+
+- National currency ratio to cryptocurrency change over time?
+
+
+
 #### Benefits
 
 - Even distribution of project profits and net worth amongst programmers: Facebook 40k employees USD 500B.
@@ -51,14 +66,6 @@ The biggest differences we have in 2020 compared to 1980 are:
 - better hardware and software- more people, more devices, more storage, faster networks
 
 - 1980s GNU/Linux: mostly in C/C++, less fragmentations due to programming langauges and frameworks like 2020 -- solution by Phos Smashlet.
-
-Time to take to replicate 100% of MAGAF and Bitcoin?
-
-Time taken to replicate conventional businesses in shared economy businesses? Uber, AirBnB etc?
-
-And grow?
-
-National currency ratio to cryptocurrency change over time?
 
 - Use bullet indent to signify new section - easiest, change later.
 
