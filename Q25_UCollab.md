@@ -42,6 +42,13 @@ Although the list above may look a little complicated, covering several fields w
 
 Item (1) has now plenty of examples which provide us a wide range of data to study. In our opinion, the most interesting aspect of shared economy seems to be the businesses that have not be "ported" to social meida. Of these, the most useful example would be cooking classes.
 
+The shared economy cooking class business model can be summarized as follow:
+- One investor (patron) invest USD 5. 
+- 20 investors invest USD 100 in total.
+- A Master chef brings 5 apprentice cooks to shop for raw ingredients for the day.
+- The Master chef coaches the apprentice cook to preprare the meals for the patrons.
+- Extra portions of meal can be sold and the profits shared amongst participants.
+
 We believe (1) and (3) may have macroeconomic implications, in that they may significantly reduced poverty globally, especially based on the potential impact of the shared economy of cooking classes, where the history of Chinese restaurants has provided us plenty of examples how they helped the poorest in the overseas Chinese communities out of poverty, making it practically impossible to find hard core poor Chinese overseas nowadays.
 
 Unfortunately, the propositions of shared economy of cooking classes and the historical role of overseas Chinese restaurants eliminating poverty do not fit the Western liberal narratives, in that:
