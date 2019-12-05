@@ -54,6 +54,8 @@ The biggest differences we have in 2020 compared to 1980 are:
 
 Time to take to replicate 100% of MAGAF and Bitcoin?
 
+Time taken to replicate conventional businesses in shared economy businesses? Uber, AirBnB etc?
+
 And grow?
 
 National currency ratio to cryptocurrency change over time?
