@@ -44,6 +44,11 @@ Item (1) has now plenty of examples which provide us a wide range of data to stu
 
 We believe (1) and (3) may have macroeconomic implications, in that they may significantly reduced poverty globally, especially based on the potential impact of the shared economy of cooking classes, where the history of Chinese restaurants has provided us plenty of examples how they helped the poorest in the overseas Chinese communities out of poverty, making it practically impossible to find hard core poor Chinese overseas nowadays.
 
+Unfortunately, the propositions of shared economy of cooking classes and the historical role of overseas Chinese restaurants eliminating poverty do not fit the Western liberal narratives, in that:
+
+- These propositions fundamentally assume Marx class struggles still exist, which the left and right of the West both deny.
+- The history of overseas Chinese restaurants and recent economic miracles of China provide novel Chinese solutions to Marxist class struggles.
+
 ... topic for another article to explore?
 
 #### Benefits
