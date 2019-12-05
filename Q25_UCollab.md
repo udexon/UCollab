@@ -35,8 +35,8 @@ Historically, the following were examples used to measure the successes of free 
 We may now use the following to measure the successes in replicating conventional software services and businesses:
 
 1. Time taken to replicate conventional businesses in shared economy businesses? Uber, AirBnB etc? And grow?
-2. Time to take to replicate 100% of MAGAF and Bitcoin?
-3. National currency ratio to cryptocurrency change over time?
+2. National currency ratio to cryptocurrency change over time?
+3. Time to take to replicate 100% of MAGAF and Bitcoin?
 
 Although the list above may look a little complicated, covering several fields which may not seem to be related, we shall attempt to explore their relationships, as in the end, they all manifest their results in dollars and cents and time, as with all human activities.
 
@@ -49,7 +49,7 @@ The shared economy cooking class business model can be summarized as follow:
 - The Master chef coaches the apprentice cook to preprare the meals for the patrons.
 - Extra portions of meal can be sold and the profits shared amongst participants.
 
-We believe (1) and (3) may have macroeconomic implications, in that they may significantly reduced poverty globally, especially based on the potential impact of the shared economy of cooking classes, where the history of Chinese restaurants has provided us plenty of examples how they helped the poorest in the overseas Chinese communities out of poverty, making it practically impossible to find hard core poor Chinese overseas nowadays.
+We believe (1) and (2) may have macroeconomic implications, in that they may significantly reduced poverty globally, especially based on the potential impact of the shared economy of cooking classes, where the history of Chinese restaurants has provided us plenty of examples how they helped the poorest in the overseas Chinese communities out of poverty, making it practically impossible to find hard core poor Chinese overseas nowadays.
 
 Unfortunately, the propositions of shared economy of cooking classes and the historical role of overseas Chinese restaurants eliminating poverty do not fit the Western liberal narratives, in that:
 
