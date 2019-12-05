@@ -47,7 +47,7 @@ We believe (1) and (3) may have macroeconomic implications, in that they may sig
 Unfortunately, the propositions of shared economy of cooking classes and the historical role of overseas Chinese restaurants eliminating poverty do not fit the Western liberal narratives, in that:
 
 - These propositions fundamentally assume Marx class struggles still exist, which the left and right of the West both deny.
-- The history of overseas Chinese restaurants and recent economic miracles of China provide novel Chinese solutions to Marxist class struggles.
+- The history of overseas Chinese restaurants and recent economic miracles of China provide novel Chinese, non-violent solutions to Marxist class struggles.
 
 ... topic for another article to explore?
 
