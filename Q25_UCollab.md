@@ -35,8 +35,8 @@ Historically, the following were examples used to measure the successes of free 
 We may now use the following to measure the successes in replicating conventional software services and businesses:
 
 1. Time taken to replicate conventional businesses in shared economy businesses? Uber, AirBnB etc? And grow?
-2. National currency ratio to cryptocurrency change over time?
-3. Time to take to replicate 100% of MAGAF and Bitcoin?
+2. National currency ratio to cryptocurrency change over time?  and Bitcoin?
+3. Time to take to replicate 100% of MAGAF -- Microsoft, Apple, Google, Amazon, Facebook
 
 Although the list above may look a little complicated, covering several fields which may not seem to be related, we shall attempt to explore their relationships, as in the end, they all manifest their results in dollars and cents and time, as with all human activities.
 
@@ -57,6 +57,10 @@ Unfortunately, the propositions of shared economy of cooking classes and the his
 Item (2) cryptocurrencies can also be viewed as an extension of free software. Althought the combine market capitalizations of various cryptocurrencies are now estimated at around USD 200 billion, with Bitcoin taking up the biggest portion, we believe the lack of understanding of the principles of public key encryption by ordinary users has become the biggest bottleneck in the growth of cryptocurrencies, where total world population who have used cryptocurrencies have not exceeded 1%. Our solution for this particular problem is illustrated in the [ Datong Token project ](https://github.com/udexon/DatongToken).
 
 We believe (1) and (2) may have macroeconomic implications, in that they may significantly reduced poverty globally, especially based on the potential impact of the shared economy of cooking classes, where the history of Chinese restaurants has provided us plenty of examples how they helped the poorest in the overseas Chinese communities out of poverty, making it practically impossible to find hard core poor Chinese overseas nowadays.
+
+We may dedicate separate articles to discuss items (1) and (2) above. However, our focus in this article is how Phos Smashlet can be used to replicate proprietary software services, thus bringing about Free Software Revolution 2.0:
+
+- Time to take to replicate 100% of MAGAF -- Microsoft, Apple, Google, Amazon, Facebook
 
 ... topic for another article to explore?
 
