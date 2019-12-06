@@ -12,6 +12,6 @@ https://en.wikipedia.org/wiki/Ad_hominem
 
 - Ad hominem (Latin for "to the person"),[1] short for argumentum ad hominem, typically refers to a fallacious argumentative strategy whereby genuine discussion of the topic at hand is avoided by instead attacking the character, motive, or other attribute of the person making the argument, or persons associated with the argument, rather than attacking the substance of the argument itself.
 
-
+Ancient people did not have professional specializations like we have today. We would vet through a person's qualifications when we discuss certain expert topics. Unfortunately, the questions concerning Artificial General Intelligence and Technological Singularity involve such a fast scope that it is very likely that some of the so called "experts" are not really qualified, and yet, such discrepancies have not actually been publicized, perhaps due to the increasing acceptance of sensationalism and fake news within social media.
 
 
