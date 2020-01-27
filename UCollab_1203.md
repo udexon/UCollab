@@ -1,4 +1,4 @@
-### Ucollab: Universal Collaborative Programming Platform
+### UCollab: Universal Collaborative Programming Platform
 
 
 
