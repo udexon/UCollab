@@ -18,7 +18,7 @@ Virtual machines in web browser, Android and iOS are spectacular technologies th
 
 - Commercial interests such as cloud computing that prevented or discouraged more open designs or architectures.
 
-Despites these obstacles, we believe we have found the literal "Swiss army knife" of programming, called Phos Smashlet, or stack machine shell, derived from the legendary, half century old Forth programming language, that can overcome the limitations mentioned above. 
+Despite these obstacles, we believe we have found the literal "Swiss army knife" of programming, called Phos Smashlet, or stack machine shell, derived from the legendary, half century old Forth programming language, that can overcome the limitations mentioned above. 
 
 Based on Phos Smashlet, we propose to build Ucollab (Universal Collaborative Programming Platform), a platform that aims to achieve the goals listed above. 
 
